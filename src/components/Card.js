@@ -29,7 +29,6 @@ const CardStyles = styled.div`
       border-top: none;
       border-radius: 0 0 30px 30px;
       margin-top: -5px;
-      z-index: -1;
     }
 
     &__title {
