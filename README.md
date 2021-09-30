@@ -6,7 +6,7 @@
 
 Coded by - [shaif Arfan](http://instagram.com/shaifarfan08) | [web cifar](http://webcifar.com)
 
-![](./ReadMeImages/ReadMeBanner.png)
+![](screenshot.png)
 
 ## Project Details
 
