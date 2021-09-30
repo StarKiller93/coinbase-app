@@ -69,7 +69,7 @@ function BlogDetailsHero({ img, title, tag, date }) {
       rgba(0, 0, 0, 0.5)
     ),
     url(${img})`,
-    backgroundSize: cover;
+    backgroundSize: 'cover',
   };
 
   return (
