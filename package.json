@@ -26,9 +26,6 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "wesbos"
-    ],
     "rules": {
       "react/prop-types": 0
     }
