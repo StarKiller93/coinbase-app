@@ -23,6 +23,7 @@
 - styled-components
 - swiper
 - react-transition-group
+- eslint
 
 2. HTML/CSS
 
